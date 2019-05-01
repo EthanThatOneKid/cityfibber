@@ -20,7 +20,7 @@ console.log(gimmeFib);
 // 'New Yorkwar'
 
 // Applying fib on a list of city names...
-const tests = ["New York", "Garden Grove", "Long Beach", "Huntington Beach"];
+const tests = ["New York", "Garden Grove", "Fullerton", "Huntington Beach"];
 const gimmeFibs = tests.map(cityfibber);
 console.log(gimmeFibs);
 // [ 'New Yorkwar',
