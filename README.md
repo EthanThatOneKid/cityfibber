@@ -1,7 +1,6 @@
 # cityfibber
-tiny npm package that pads the name of a city with additional fib
+> tiny npm package that pads the name of a city with additional fib
 
-# ascii-game
 ![GitHub forks](https://img.shields.io/github/forks/EthanThatOneKid/cityfibber.svg?style=social&label=Fork)
 ![GitHub stars](https://img.shields.io/github/forks/EthanThatOneKid/cityfibber.svg?style=social&label=Star)
 ![bundle size](https://img.shields.io/bundlephobia/min/cityfibber.svg)
