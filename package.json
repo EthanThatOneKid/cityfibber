@@ -1,0 +1,22 @@
+{
+  "name": "cityfibber",
+  "version": "1.0.0",
+  "description": "tiny npm package that pads the name of a city with additional fib",
+  "main": "lib/cityfibber.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanThatOneKid/cityfibber.git"
+  },
+  "author": "EthanThatOneKid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanThatOneKid/cityfibber/issues"
+  },
+  "homepage": "https://github.com/EthanThatOneKid/cityfibber#readme"
+}
